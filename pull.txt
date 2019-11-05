@@ -1,2 +1,9 @@
+<<<<<<< HEAD
 test pull multiple comments
 edited file using Vi editor before pull from web browser 
+=======
+test pull multiple comments 
+
+
+Edited file on web browser 
+>>>>>>> c8477e942a8dcde779dc90665d1bca77f4e0f46d
