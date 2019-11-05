@@ -1,1 +1,2 @@
-test pull multiple comments 
+test pull multiple comments
+edited file using Vi editor before pull from web browser 
